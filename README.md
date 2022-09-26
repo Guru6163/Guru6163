@@ -1,4 +1,4 @@
-![logo](https://www.techaheadcorp.com/wp-content/uploads/2020/09/react-js-developer.svg)
+![logo](https://pbs.twimg.com/profile_images/960980981892214785/KaSVZO2q_400x400.jpg)
 <h1 align="center">Hi 👋, I'm GuruF</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
