@@ -1,4 +1,4 @@
-![logo](https://img.portalgsti.com.br/3-O_4gOwzuS4sWj7-gCzeCbO7vA=/700x260/https://www.portalgsti.com.br/media/uploads/article/29607/2017/11/22/front-end_fkzAHIS.jpg)
+![logo](https://www.techaheadcorp.com/wp-content/uploads/2020/09/react-js-developer.svg)
 <h1 align="center">Hi 👋, I'm GuruF</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
